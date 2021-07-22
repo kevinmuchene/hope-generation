@@ -30,3 +30,15 @@ function App() {
 }
 
 export default App;
+
+/***
+ *
+ *
+ * Git is a version control system
+ *
+ * 1. to record changes made to files over time.
+ * 2. compare changes made to files from one version to another.
+ *
+ *
+ *
+ */
